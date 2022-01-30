@@ -1,0 +1,15 @@
+nav{
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  background-color: cadetblue;
+}
+
+ul{
+  display: flex;
+  width: 50vw;
+  justify-content: space-evenly;
+}
+ul a{
+  color: #fff;
+}
