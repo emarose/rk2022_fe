@@ -12,7 +12,15 @@ form{
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;
 }
+.formDisplayProducts{
+  width: 100%;
 
+
+}
+.formDisplayProducts table{
+  width: 100vw;
+  
+}
 .productForm .productInput::placeholder{
   text-align: center;
   font-size: 0.9rem;
